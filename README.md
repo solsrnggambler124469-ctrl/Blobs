@@ -20,4 +20,14 @@ A beta feature released in v2.0.0 of Blobs. It allows blobs to go in black holes
 
 We have our own custom modding feature which allows you to add your own "main.lua" script and edit the game. Alternatively, you can add a "main.json" file and start editing from there!
 
-The modding feature is in beta and is being worked on. Please be patient. Soon, we'll add our own documentation on the json and lua systems.
+The modding feature is in beta and is being worked on. Please be patient. Soon, we'll add our own documentation on the json and lua systems. To safely disable modding, scroll down to the NOTES section of the readme file
+
+# **DOWNLOADING**
+
+To download blobs, click "Code", then in the dropdown menu - click "Download ZIP". It should appear in your downloads folder on your PC. Then, extract the zip where you wish, (we recommend you to) pin the "Blobs.exe" file and double click it. If you get a smart screen notification - click "More Info" and then next to "Don't Run" click "Run Anyways".
+
+# NOTES
+
+-If you don't want mods enabled:
+  -Go to main.lua, and in "function OnPreload()", type in "OFF()". It should be there automatically but this is in case it is not. 
+  -For main.json, above the "main" array, type in ' "enabled" : false, ' - **WITH** the comma, otherwise the game will break trying to parse the json file.
