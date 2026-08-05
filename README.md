@@ -30,6 +30,6 @@ To download blobs, click "Code", then in the dropdown menu - click "Download ZIP
 
 # NOTES
 
--If you don't want mods enabled:
-  -Go to main.lua, and in "function OnPreload()", type in "OFF()". It should be there automatically but this is in case it is not. 
-  -For main.json, above the "main" array, type in ' "enabled" : false, ' - **WITH** the comma, otherwise the game will break trying to parse the json file.
+- If you don't want mods enabled:
+  - Go to main.lua, and in "function OnPreload()", type in "OFF()". It should be there automatically but this is in case it is not. 
+  - For main.json, above the "main" array, type in ' "enabled" : false, ' - **WITH** the comma, otherwise the game will break trying to parse the json file.
