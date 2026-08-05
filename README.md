@@ -2,7 +2,7 @@
 
 Welcome to the Blobs github repository! You can download the game for yourself, just please don't do DLL injections or reverse engineering anything. Thank you!
 
-The game is created in [Raylib](https://www.raylib.com), a lightweight module which you can use in your projects to create ***2D*** # and ***3D*** graphics! Download it [here](https://github.com/raysan5/raylib)!
+The game is created in [Raylib](https://www.raylib.com), a lightweight module which you can use in your projects to create ***2D*** and ***3D*** graphics! Download it [here](https://github.com/raysan5/raylib)!
 
 The current ***Blobs*** version is 4.0.0, download the most recent version if yours is outdated (it may take time for the new version to be released even after the version here is changed, so be patient).
 
