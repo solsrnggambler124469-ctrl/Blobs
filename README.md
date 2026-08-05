@@ -6,6 +6,8 @@ The game is created in [Raylib](https://www.raylib.com), a lightweight module wh
 
 The current ***Blobs*** version is 4.0.0, download the most recent version if yours is outdated (it may take time for the new version to be released even after the version here is changed, so be patient).
 
+Blobs is written in Pure C in Code::Blocks IDE, so go check them out!
+
 # **MECHANICS**
 
 You use WASD to move your blob. You play against AI controlled enemies, trying to get the most mass possible. Online play may come soon. Every time you eat food or another blob, you gain mass. Your mass resets after 300 size the first time you reach the max blob limit. This limit also affects enemies but can be different for them. The limit increases every time you reset mass.
