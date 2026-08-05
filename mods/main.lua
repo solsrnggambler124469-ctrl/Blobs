@@ -7,6 +7,7 @@ local god_mode = false
 local old_max = 0
 
 function OnPreload()
+	OFF() --This turns off the mod
     print("PRE LOAD | HELLO WORLD!")
 end
 
