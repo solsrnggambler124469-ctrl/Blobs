@@ -666,7 +666,7 @@ They are built into the Lua Modding engine. They are callbacks, and are used as 
 - function OnLoad() // OnLoad() is called when the game finishes initialising all the variables and OnUpdate() is first called.
 - function OnUpdate(dt) // OnUpdate is called on every frame and sends back dt, which representing Delta Time.
 - function OnConsume(consumer_id, consumed_id) // OnConsume is called when any blob is consumed, consumerid can be -2 for food, -1 for player or 0 and above for the id of an AI. The same applies for consumedid.
-- function OnConsume() // OnSplit is called when a player blob splits. This mechanic is currently under work.
+- function OnSplit() // OnSplit is called when a player blob splits. This mechanic is currently under work.
 </code></pre></div>
 
 
