@@ -1,3 +1,0 @@
-JSON is for editing basic mechanics of the game without implementing any logic or
-special behaviour whilst lua script is for creating specialised logic and
-behaviour in game.
