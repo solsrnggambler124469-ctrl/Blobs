@@ -26,7 +26,7 @@ A beta feature released in v2.0.0 of Blobs. It allows blobs to go in black holes
 
 We have our own custom modding feature which allows you to add your own "main.lua" script and edit the game. Alternatively, you can add a "main.json" file and start editing from there!
 
-The modding feature is in beta and is being worked on. Please be patient. Soon, we'll add our own documentation on the json and lua systems. To safely disable modding, scroll down to the NOTES section of the readme file
+The modding feature is in beta and is being worked on. Please be patient. You can view the documentation on the JSON and Lua modding styles [here](https://blobs.byteland.online/modding/). To safely disable modding, scroll down to the NOTES section of the readme file
 
 # **DOWNLOADING**
 
